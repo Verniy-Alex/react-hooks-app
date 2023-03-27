@@ -1,0 +1,30 @@
+.contracts-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.inputs-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.check-inputs input {
+    margin-right: 15px;
+    width: 20px;
+    height: 20px;
+}
+
+.search-input {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+}
+
+.contacts-content h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 30px;
+}
