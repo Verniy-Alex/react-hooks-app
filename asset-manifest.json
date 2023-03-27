@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Verniy-Alex.github.io/react-hooks-app/static/css/main.0cf4bbf0.css",
+    "main.js": "/Verniy-Alex.github.io/react-hooks-app/static/js/main.b674a620.js",
+    "static/js/787.71e74fa5.chunk.js": "/Verniy-Alex.github.io/react-hooks-app/static/js/787.71e74fa5.chunk.js",
+    "index.html": "/Verniy-Alex.github.io/react-hooks-app/index.html",
+    "main.0cf4bbf0.css.map": "/Verniy-Alex.github.io/react-hooks-app/static/css/main.0cf4bbf0.css.map",
+    "main.b674a620.js.map": "/Verniy-Alex.github.io/react-hooks-app/static/js/main.b674a620.js.map",
+    "787.71e74fa5.chunk.js.map": "/Verniy-Alex.github.io/react-hooks-app/static/js/787.71e74fa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf4bbf0.css",
+    "static/js/main.b674a620.js"
+  ]
+}
